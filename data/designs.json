@@ -1,0 +1,283 @@
+{
+  "updated": "2026-11-15",
+  "designs": [
+    {
+      "slug": "luxury-opaline",
+      "name": "Opaline",
+      "style": "luxury",
+      "filter": "luxury",
+      "styleLabel": "Luxury",
+      "description": "Give your fragrance the presence of a flagship scent. Opaline is a faceted crystal-glass bottle with 12-sided cuts that catch light like a gemstone, crowned by a brushed gold faceted cap and filled with rose liquid.",
+      "batch": "batch-001",
+      "height_cm": 12.7,
+      "width_cm": 7.4,
+      "liquid": "Rose",
+      "metal": "Brushed gold",
+      "backdrop": "Ivory",
+      "parts": [
+        "Glass body",
+        "Liquid",
+        "Collar",
+        "Cap"
+      ],
+      "fiverr": "https://www.fiverr.com/bastianbrmarken/create-a-luxury-crystal-3d-perfume-bottle-model-with-photoreal-renders",
+      "hero": "hero-three-quarter",
+      "angles": [
+        "hero-three-quarter",
+        "front",
+        "three-quarter",
+        "side",
+        "top-down",
+        "cap-closeup"
+      ],
+      "glb": "assets/models/luxury-opaline.glb",
+      "images": {
+        "hero-three-quarter": {
+          "jpg": "assets/images/luxury-opaline/hero-three-quarter.jpg",
+          "webp": "assets/images/luxury-opaline/hero-three-quarter.webp",
+          "thumb_jpg": "assets/images/luxury-opaline/hero-three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-opaline/hero-three-quarter-thumb.webp"
+        },
+        "front": {
+          "jpg": "assets/images/luxury-opaline/front.jpg",
+          "webp": "assets/images/luxury-opaline/front.webp",
+          "thumb_jpg": "assets/images/luxury-opaline/front-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-opaline/front-thumb.webp"
+        },
+        "three-quarter": {
+          "jpg": "assets/images/luxury-opaline/three-quarter.jpg",
+          "webp": "assets/images/luxury-opaline/three-quarter.webp",
+          "thumb_jpg": "assets/images/luxury-opaline/three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-opaline/three-quarter-thumb.webp"
+        },
+        "side": {
+          "jpg": "assets/images/luxury-opaline/side.jpg",
+          "webp": "assets/images/luxury-opaline/side.webp",
+          "thumb_jpg": "assets/images/luxury-opaline/side-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-opaline/side-thumb.webp"
+        },
+        "top-down": {
+          "jpg": "assets/images/luxury-opaline/top-down.jpg",
+          "webp": "assets/images/luxury-opaline/top-down.webp",
+          "thumb_jpg": "assets/images/luxury-opaline/top-down-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-opaline/top-down-thumb.webp"
+        },
+        "cap-closeup": {
+          "jpg": "assets/images/luxury-opaline/cap-closeup.jpg",
+          "webp": "assets/images/luxury-opaline/cap-closeup.webp",
+          "thumb_jpg": "assets/images/luxury-opaline/cap-closeup-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-opaline/cap-closeup-thumb.webp"
+        }
+      }
+    },
+    {
+      "slug": "minimalist-nord",
+      "name": "Nord",
+      "style": "minimalist",
+      "filter": "modern",
+      "styleLabel": "Modern",
+      "description": "Clean, quiet and confident. Nord is a modern minimalist bottle with a soft rounded-rectangle profile, a thick weighted glass base and a matte black cap on a brushed silver collar, holding a champagne fragrance.",
+      "batch": "batch-001",
+      "height_cm": 13.2,
+      "width_cm": 6.2,
+      "liquid": "Champagne",
+      "metal": "Brushed silver",
+      "backdrop": "Soft pink",
+      "parts": [
+        "Glass body",
+        "Liquid",
+        "Collar",
+        "Cap"
+      ],
+      "fiverr": "https://www.fiverr.com/bastianbrmarken/design-a-modern-minimalist-3d-perfume-bottle-with-clean-renders",
+      "hero": "hero-three-quarter",
+      "angles": [
+        "hero-three-quarter",
+        "front",
+        "three-quarter",
+        "side",
+        "top-down",
+        "cap-closeup"
+      ],
+      "glb": "assets/models/minimalist-nord.glb",
+      "images": {
+        "hero-three-quarter": {
+          "jpg": "assets/images/minimalist-nord/hero-three-quarter.jpg",
+          "webp": "assets/images/minimalist-nord/hero-three-quarter.webp",
+          "thumb_jpg": "assets/images/minimalist-nord/hero-three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/minimalist-nord/hero-three-quarter-thumb.webp"
+        },
+        "front": {
+          "jpg": "assets/images/minimalist-nord/front.jpg",
+          "webp": "assets/images/minimalist-nord/front.webp",
+          "thumb_jpg": "assets/images/minimalist-nord/front-thumb.jpg",
+          "thumb_webp": "assets/images/minimalist-nord/front-thumb.webp"
+        },
+        "three-quarter": {
+          "jpg": "assets/images/minimalist-nord/three-quarter.jpg",
+          "webp": "assets/images/minimalist-nord/three-quarter.webp",
+          "thumb_jpg": "assets/images/minimalist-nord/three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/minimalist-nord/three-quarter-thumb.webp"
+        },
+        "side": {
+          "jpg": "assets/images/minimalist-nord/side.jpg",
+          "webp": "assets/images/minimalist-nord/side.webp",
+          "thumb_jpg": "assets/images/minimalist-nord/side-thumb.jpg",
+          "thumb_webp": "assets/images/minimalist-nord/side-thumb.webp"
+        },
+        "top-down": {
+          "jpg": "assets/images/minimalist-nord/top-down.jpg",
+          "webp": "assets/images/minimalist-nord/top-down.webp",
+          "thumb_jpg": "assets/images/minimalist-nord/top-down-thumb.jpg",
+          "thumb_webp": "assets/images/minimalist-nord/top-down-thumb.webp"
+        },
+        "cap-closeup": {
+          "jpg": "assets/images/minimalist-nord/cap-closeup.jpg",
+          "webp": "assets/images/minimalist-nord/cap-closeup.webp",
+          "thumb_jpg": "assets/images/minimalist-nord/cap-closeup-thumb.jpg",
+          "thumb_webp": "assets/images/minimalist-nord/cap-closeup-thumb.webp"
+        }
+      }
+    },
+    {
+      "slug": "geometric-monolith",
+      "name": "Monolith",
+      "style": "geometric",
+      "filter": "geometric",
+      "styleLabel": "Geometric",
+      "description": "Sharp lines for a brand that stands out. Monolith is a twisted square glass bottle in smoked glass with a crisp polished gold collar and a sculptural gloss black cap, filled with sapphire liquid.",
+      "batch": "batch-001",
+      "height_cm": 12.9,
+      "width_cm": 7.0,
+      "liquid": "Sapphire",
+      "metal": "Polished gold",
+      "backdrop": "Light grey",
+      "parts": [
+        "Glass body",
+        "Liquid",
+        "Collar",
+        "Cap"
+      ],
+      "fiverr": "https://www.fiverr.com/bastianbrmarken/design-a-modern-minimalist-3d-perfume-bottle-with-clean-renders",
+      "hero": "hero-three-quarter",
+      "angles": [
+        "hero-three-quarter",
+        "front",
+        "three-quarter",
+        "side",
+        "top-down",
+        "cap-closeup"
+      ],
+      "glb": "assets/models/geometric-monolith.glb",
+      "images": {
+        "hero-three-quarter": {
+          "jpg": "assets/images/geometric-monolith/hero-three-quarter.jpg",
+          "webp": "assets/images/geometric-monolith/hero-three-quarter.webp",
+          "thumb_jpg": "assets/images/geometric-monolith/hero-three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-monolith/hero-three-quarter-thumb.webp"
+        },
+        "front": {
+          "jpg": "assets/images/geometric-monolith/front.jpg",
+          "webp": "assets/images/geometric-monolith/front.webp",
+          "thumb_jpg": "assets/images/geometric-monolith/front-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-monolith/front-thumb.webp"
+        },
+        "three-quarter": {
+          "jpg": "assets/images/geometric-monolith/three-quarter.jpg",
+          "webp": "assets/images/geometric-monolith/three-quarter.webp",
+          "thumb_jpg": "assets/images/geometric-monolith/three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-monolith/three-quarter-thumb.webp"
+        },
+        "side": {
+          "jpg": "assets/images/geometric-monolith/side.jpg",
+          "webp": "assets/images/geometric-monolith/side.webp",
+          "thumb_jpg": "assets/images/geometric-monolith/side-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-monolith/side-thumb.webp"
+        },
+        "top-down": {
+          "jpg": "assets/images/geometric-monolith/top-down.jpg",
+          "webp": "assets/images/geometric-monolith/top-down.webp",
+          "thumb_jpg": "assets/images/geometric-monolith/top-down-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-monolith/top-down-thumb.webp"
+        },
+        "cap-closeup": {
+          "jpg": "assets/images/geometric-monolith/cap-closeup.jpg",
+          "webp": "assets/images/geometric-monolith/cap-closeup.webp",
+          "thumb_jpg": "assets/images/geometric-monolith/cap-closeup-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-monolith/cap-closeup-thumb.webp"
+        }
+      }
+    },
+    {
+      "slug": "ornate-filigree",
+      "name": "Filigree",
+      "style": "ornate",
+      "filter": "ornate",
+      "styleLabel": "Ornate",
+      "description": "Romance and craftsmanship in one bottle. Filigree has a fluted bell glass body with 24 vertical ribs, a antique brass beaded collar and a sculpted teardrop crystal stopper, filled with violet perfume.",
+      "batch": "batch-001",
+      "height_cm": 13.6,
+      "width_cm": 8.3,
+      "liquid": "Violet",
+      "metal": "Antique brass",
+      "backdrop": "Dusty blue",
+      "parts": [
+        "Glass body",
+        "Liquid",
+        "Collar",
+        "Collar bead ring",
+        "Stopper base",
+        "Stopper"
+      ],
+      "fiverr": "https://www.fiverr.com/bastianbrmarken/design-a-classic-ornate-3d-fragrance-bottle-with-crystal-stopper",
+      "hero": "hero-three-quarter",
+      "angles": [
+        "hero-three-quarter",
+        "front",
+        "three-quarter",
+        "side",
+        "top-down",
+        "cap-closeup"
+      ],
+      "glb": "assets/models/ornate-filigree.glb",
+      "images": {
+        "hero-three-quarter": {
+          "jpg": "assets/images/ornate-filigree/hero-three-quarter.jpg",
+          "webp": "assets/images/ornate-filigree/hero-three-quarter.webp",
+          "thumb_jpg": "assets/images/ornate-filigree/hero-three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-filigree/hero-three-quarter-thumb.webp"
+        },
+        "front": {
+          "jpg": "assets/images/ornate-filigree/front.jpg",
+          "webp": "assets/images/ornate-filigree/front.webp",
+          "thumb_jpg": "assets/images/ornate-filigree/front-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-filigree/front-thumb.webp"
+        },
+        "three-quarter": {
+          "jpg": "assets/images/ornate-filigree/three-quarter.jpg",
+          "webp": "assets/images/ornate-filigree/three-quarter.webp",
+          "thumb_jpg": "assets/images/ornate-filigree/three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-filigree/three-quarter-thumb.webp"
+        },
+        "side": {
+          "jpg": "assets/images/ornate-filigree/side.jpg",
+          "webp": "assets/images/ornate-filigree/side.webp",
+          "thumb_jpg": "assets/images/ornate-filigree/side-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-filigree/side-thumb.webp"
+        },
+        "top-down": {
+          "jpg": "assets/images/ornate-filigree/top-down.jpg",
+          "webp": "assets/images/ornate-filigree/top-down.webp",
+          "thumb_jpg": "assets/images/ornate-filigree/top-down-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-filigree/top-down-thumb.webp"
+        },
+        "cap-closeup": {
+          "jpg": "assets/images/ornate-filigree/cap-closeup.jpg",
+          "webp": "assets/images/ornate-filigree/cap-closeup.webp",
+          "thumb_jpg": "assets/images/ornate-filigree/cap-closeup-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-filigree/cap-closeup-thumb.webp"
+        }
+      }
+    }
+  ]
+}

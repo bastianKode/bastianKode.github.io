@@ -1,6 +1,353 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "designs": [
+    {
+      "slug": "luxury-celestine",
+      "name": "Celestine",
+      "style": "luxury",
+      "filter": "luxury",
+      "styleLabel": "Luxury",
+      "description": "Give your fragrance the presence of a flagship scent. Celestine is a faceted crystal-glass bottle with 8-sided cuts that catch light like a gemstone, crowned by a brushed gold faceted cap and filled with amber liquid.",
+      "batch": "batch-2026-11-16",
+      "height_cm": 12.8,
+      "width_cm": 6.3,
+      "liquid": "Amber",
+      "metal": "Brushed gold",
+      "backdrop": "Ivory",
+      "parts": [
+        "Glass body",
+        "Liquid",
+        "Collar",
+        "Cap"
+      ],
+      "fiverr": "https://www.fiverr.com/bastianbrmarken/create-a-luxury-crystal-3d-perfume-bottle-model-with-photoreal-renders",
+      "hero": "hero-three-quarter",
+      "angles": [
+        "hero-three-quarter",
+        "front",
+        "three-quarter",
+        "side",
+        "top-down",
+        "cap-closeup"
+      ],
+      "glb": "assets/models/luxury-celestine.glb",
+      "images": {
+        "hero-three-quarter": {
+          "jpg": "assets/images/luxury-celestine/hero-three-quarter.jpg",
+          "webp": "assets/images/luxury-celestine/hero-three-quarter.webp",
+          "thumb_jpg": "assets/images/luxury-celestine/hero-three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-celestine/hero-three-quarter-thumb.webp"
+        },
+        "front": {
+          "jpg": "assets/images/luxury-celestine/front.jpg",
+          "webp": "assets/images/luxury-celestine/front.webp",
+          "thumb_jpg": "assets/images/luxury-celestine/front-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-celestine/front-thumb.webp"
+        },
+        "three-quarter": {
+          "jpg": "assets/images/luxury-celestine/three-quarter.jpg",
+          "webp": "assets/images/luxury-celestine/three-quarter.webp",
+          "thumb_jpg": "assets/images/luxury-celestine/three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-celestine/three-quarter-thumb.webp"
+        },
+        "side": {
+          "jpg": "assets/images/luxury-celestine/side.jpg",
+          "webp": "assets/images/luxury-celestine/side.webp",
+          "thumb_jpg": "assets/images/luxury-celestine/side-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-celestine/side-thumb.webp"
+        },
+        "top-down": {
+          "jpg": "assets/images/luxury-celestine/top-down.jpg",
+          "webp": "assets/images/luxury-celestine/top-down.webp",
+          "thumb_jpg": "assets/images/luxury-celestine/top-down-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-celestine/top-down-thumb.webp"
+        },
+        "cap-closeup": {
+          "jpg": "assets/images/luxury-celestine/cap-closeup.jpg",
+          "webp": "assets/images/luxury-celestine/cap-closeup.webp",
+          "thumb_jpg": "assets/images/luxury-celestine/cap-closeup-thumb.jpg",
+          "thumb_webp": "assets/images/luxury-celestine/cap-closeup-thumb.webp"
+        }
+      }
+    },
+    {
+      "slug": "geometric-spire",
+      "name": "Spire",
+      "style": "geometric",
+      "filter": "geometric",
+      "styleLabel": "Geometric",
+      "description": "Sharp lines for a brand that stands out. Spire is a hexagonal prism glass bottle in smoked glass with a crisp brushed silver collar and a sculptural brushed silver cap, filled with lilac liquid.",
+      "batch": "batch-2026-11-16",
+      "height_cm": 13.2,
+      "width_cm": 7.5,
+      "liquid": "Lilac",
+      "metal": "Brushed silver",
+      "backdrop": "Dusty blue",
+      "parts": [
+        "Glass body",
+        "Liquid",
+        "Collar",
+        "Cap"
+      ],
+      "fiverr": "https://www.fiverr.com/bastianbrmarken/design-a-modern-minimalist-3d-perfume-bottle-with-clean-renders",
+      "hero": "hero-three-quarter",
+      "angles": [
+        "hero-three-quarter",
+        "front",
+        "three-quarter",
+        "side",
+        "top-down",
+        "cap-closeup"
+      ],
+      "glb": "assets/models/geometric-spire.glb",
+      "images": {
+        "hero-three-quarter": {
+          "jpg": "assets/images/geometric-spire/hero-three-quarter.jpg",
+          "webp": "assets/images/geometric-spire/hero-three-quarter.webp",
+          "thumb_jpg": "assets/images/geometric-spire/hero-three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-spire/hero-three-quarter-thumb.webp"
+        },
+        "front": {
+          "jpg": "assets/images/geometric-spire/front.jpg",
+          "webp": "assets/images/geometric-spire/front.webp",
+          "thumb_jpg": "assets/images/geometric-spire/front-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-spire/front-thumb.webp"
+        },
+        "three-quarter": {
+          "jpg": "assets/images/geometric-spire/three-quarter.jpg",
+          "webp": "assets/images/geometric-spire/three-quarter.webp",
+          "thumb_jpg": "assets/images/geometric-spire/three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-spire/three-quarter-thumb.webp"
+        },
+        "side": {
+          "jpg": "assets/images/geometric-spire/side.jpg",
+          "webp": "assets/images/geometric-spire/side.webp",
+          "thumb_jpg": "assets/images/geometric-spire/side-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-spire/side-thumb.webp"
+        },
+        "top-down": {
+          "jpg": "assets/images/geometric-spire/top-down.jpg",
+          "webp": "assets/images/geometric-spire/top-down.webp",
+          "thumb_jpg": "assets/images/geometric-spire/top-down-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-spire/top-down-thumb.webp"
+        },
+        "cap-closeup": {
+          "jpg": "assets/images/geometric-spire/cap-closeup.jpg",
+          "webp": "assets/images/geometric-spire/cap-closeup.webp",
+          "thumb_jpg": "assets/images/geometric-spire/cap-closeup-thumb.jpg",
+          "thumb_webp": "assets/images/geometric-spire/cap-closeup-thumb.webp"
+        }
+      }
+    },
+    {
+      "slug": "ornate-marquise",
+      "name": "Marquise",
+      "style": "ornate",
+      "filter": "ornate",
+      "styleLabel": "Ornate",
+      "description": "Romance and craftsmanship in one bottle. Marquise has a fluted amphora glass body with 16 vertical ribs, a antique brass beaded collar and a sculpted fan-shaped crystal stopper, filled with sapphire perfume.",
+      "batch": "batch-2026-11-16",
+      "height_cm": 13.2,
+      "width_cm": 7.7,
+      "liquid": "Sapphire",
+      "metal": "Antique brass",
+      "backdrop": "Soft pink",
+      "parts": [
+        "Glass body",
+        "Liquid",
+        "Collar",
+        "Collar bead ring",
+        "Stopper base",
+        "Stopper"
+      ],
+      "fiverr": "https://www.fiverr.com/bastianbrmarken/design-a-classic-ornate-3d-fragrance-bottle-with-crystal-stopper",
+      "hero": "hero-three-quarter",
+      "angles": [
+        "hero-three-quarter",
+        "front",
+        "three-quarter",
+        "side",
+        "top-down",
+        "cap-closeup"
+      ],
+      "glb": "assets/models/ornate-marquise.glb",
+      "images": {
+        "hero-three-quarter": {
+          "jpg": "assets/images/ornate-marquise/hero-three-quarter.jpg",
+          "webp": "assets/images/ornate-marquise/hero-three-quarter.webp",
+          "thumb_jpg": "assets/images/ornate-marquise/hero-three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-marquise/hero-three-quarter-thumb.webp"
+        },
+        "front": {
+          "jpg": "assets/images/ornate-marquise/front.jpg",
+          "webp": "assets/images/ornate-marquise/front.webp",
+          "thumb_jpg": "assets/images/ornate-marquise/front-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-marquise/front-thumb.webp"
+        },
+        "three-quarter": {
+          "jpg": "assets/images/ornate-marquise/three-quarter.jpg",
+          "webp": "assets/images/ornate-marquise/three-quarter.webp",
+          "thumb_jpg": "assets/images/ornate-marquise/three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-marquise/three-quarter-thumb.webp"
+        },
+        "side": {
+          "jpg": "assets/images/ornate-marquise/side.jpg",
+          "webp": "assets/images/ornate-marquise/side.webp",
+          "thumb_jpg": "assets/images/ornate-marquise/side-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-marquise/side-thumb.webp"
+        },
+        "top-down": {
+          "jpg": "assets/images/ornate-marquise/top-down.jpg",
+          "webp": "assets/images/ornate-marquise/top-down.webp",
+          "thumb_jpg": "assets/images/ornate-marquise/top-down-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-marquise/top-down-thumb.webp"
+        },
+        "cap-closeup": {
+          "jpg": "assets/images/ornate-marquise/cap-closeup.jpg",
+          "webp": "assets/images/ornate-marquise/cap-closeup.webp",
+          "thumb_jpg": "assets/images/ornate-marquise/cap-closeup-thumb.jpg",
+          "thumb_webp": "assets/images/ornate-marquise/cap-closeup-thumb.webp"
+        }
+      }
+    },
+    {
+      "slug": "artdeco-chrysler",
+      "name": "Chrysler",
+      "style": "artdeco",
+      "filter": "artdeco",
+      "styleLabel": "Art Deco",
+      "description": "Jazz-age glamour, rebuilt for a modern shelf. Chrysler is a octagonal glass tower with skyscraper setbacks, a crisp antique brass collar and a stepped ziggurat cap in antique brass, filled with cognac liquid.",
+      "batch": "batch-2026-11-16",
+      "height_cm": 13.0,
+      "width_cm": 6.3,
+      "liquid": "Cognac",
+      "metal": "Antique brass",
+      "backdrop": "Midnight",
+      "parts": [
+        "Glass body",
+        "Liquid",
+        "Collar",
+        "Cap"
+      ],
+      "fiverr": "https://www.fiverr.com/bastianbrmarken/design-a-classic-ornate-3d-fragrance-bottle-with-crystal-stopper",
+      "hero": "hero-three-quarter",
+      "angles": [
+        "hero-three-quarter",
+        "front",
+        "three-quarter",
+        "side",
+        "top-down",
+        "cap-closeup"
+      ],
+      "glb": "assets/models/artdeco-chrysler.glb",
+      "images": {
+        "hero-three-quarter": {
+          "jpg": "assets/images/artdeco-chrysler/hero-three-quarter.jpg",
+          "webp": "assets/images/artdeco-chrysler/hero-three-quarter.webp",
+          "thumb_jpg": "assets/images/artdeco-chrysler/hero-three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/artdeco-chrysler/hero-three-quarter-thumb.webp"
+        },
+        "front": {
+          "jpg": "assets/images/artdeco-chrysler/front.jpg",
+          "webp": "assets/images/artdeco-chrysler/front.webp",
+          "thumb_jpg": "assets/images/artdeco-chrysler/front-thumb.jpg",
+          "thumb_webp": "assets/images/artdeco-chrysler/front-thumb.webp"
+        },
+        "three-quarter": {
+          "jpg": "assets/images/artdeco-chrysler/three-quarter.jpg",
+          "webp": "assets/images/artdeco-chrysler/three-quarter.webp",
+          "thumb_jpg": "assets/images/artdeco-chrysler/three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/artdeco-chrysler/three-quarter-thumb.webp"
+        },
+        "side": {
+          "jpg": "assets/images/artdeco-chrysler/side.jpg",
+          "webp": "assets/images/artdeco-chrysler/side.webp",
+          "thumb_jpg": "assets/images/artdeco-chrysler/side-thumb.jpg",
+          "thumb_webp": "assets/images/artdeco-chrysler/side-thumb.webp"
+        },
+        "top-down": {
+          "jpg": "assets/images/artdeco-chrysler/top-down.jpg",
+          "webp": "assets/images/artdeco-chrysler/top-down.webp",
+          "thumb_jpg": "assets/images/artdeco-chrysler/top-down-thumb.jpg",
+          "thumb_webp": "assets/images/artdeco-chrysler/top-down-thumb.webp"
+        },
+        "cap-closeup": {
+          "jpg": "assets/images/artdeco-chrysler/cap-closeup.jpg",
+          "webp": "assets/images/artdeco-chrysler/cap-closeup.webp",
+          "thumb_jpg": "assets/images/artdeco-chrysler/cap-closeup-thumb.jpg",
+          "thumb_webp": "assets/images/artdeco-chrysler/cap-closeup-thumb.webp"
+        }
+      }
+    },
+    {
+      "slug": "organic-tidal",
+      "name": "Tidal",
+      "style": "organic",
+      "filter": "organic",
+      "styleLabel": "Organic",
+      "description": "Calm, tactile and made to be held. Tidal is a soft river-pebble bottle in clear glass with a gentle sculptural twist, a slim rose gold collar and a smooth sage stone-like cap, holding a olive fragrance.",
+      "batch": "batch-2026-11-16",
+      "height_cm": 10.2,
+      "width_cm": 8.7,
+      "liquid": "Olive",
+      "metal": "Rose gold",
+      "backdrop": "Clay",
+      "parts": [
+        "Glass body",
+        "Liquid",
+        "Collar",
+        "Cap"
+      ],
+      "fiverr": "https://www.fiverr.com/bastianbrmarken/design-a-modern-minimalist-3d-perfume-bottle-with-clean-renders",
+      "hero": "hero-three-quarter",
+      "angles": [
+        "hero-three-quarter",
+        "front",
+        "three-quarter",
+        "side",
+        "top-down",
+        "cap-closeup"
+      ],
+      "glb": "assets/models/organic-tidal.glb",
+      "images": {
+        "hero-three-quarter": {
+          "jpg": "assets/images/organic-tidal/hero-three-quarter.jpg",
+          "webp": "assets/images/organic-tidal/hero-three-quarter.webp",
+          "thumb_jpg": "assets/images/organic-tidal/hero-three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/organic-tidal/hero-three-quarter-thumb.webp"
+        },
+        "front": {
+          "jpg": "assets/images/organic-tidal/front.jpg",
+          "webp": "assets/images/organic-tidal/front.webp",
+          "thumb_jpg": "assets/images/organic-tidal/front-thumb.jpg",
+          "thumb_webp": "assets/images/organic-tidal/front-thumb.webp"
+        },
+        "three-quarter": {
+          "jpg": "assets/images/organic-tidal/three-quarter.jpg",
+          "webp": "assets/images/organic-tidal/three-quarter.webp",
+          "thumb_jpg": "assets/images/organic-tidal/three-quarter-thumb.jpg",
+          "thumb_webp": "assets/images/organic-tidal/three-quarter-thumb.webp"
+        },
+        "side": {
+          "jpg": "assets/images/organic-tidal/side.jpg",
+          "webp": "assets/images/organic-tidal/side.webp",
+          "thumb_jpg": "assets/images/organic-tidal/side-thumb.jpg",
+          "thumb_webp": "assets/images/organic-tidal/side-thumb.webp"
+        },
+        "top-down": {
+          "jpg": "assets/images/organic-tidal/top-down.jpg",
+          "webp": "assets/images/organic-tidal/top-down.webp",
+          "thumb_jpg": "assets/images/organic-tidal/top-down-thumb.jpg",
+          "thumb_webp": "assets/images/organic-tidal/top-down-thumb.webp"
+        },
+        "cap-closeup": {
+          "jpg": "assets/images/organic-tidal/cap-closeup.jpg",
+          "webp": "assets/images/organic-tidal/cap-closeup.webp",
+          "thumb_jpg": "assets/images/organic-tidal/cap-closeup-thumb.jpg",
+          "thumb_webp": "assets/images/organic-tidal/cap-closeup-thumb.webp"
+        }
+      }
+    },
     {
       "slug": "luxury-opaline",
       "name": "Opaline",
